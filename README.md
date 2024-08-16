@@ -58,13 +58,7 @@ The exercises have two goals:
  
 ### Deliverables
 
-There will be three practicals divided over seven weeks as follows:
-
-- Practical 0 (week 1): Introduction to python and python packages for the course
-- Practical 1 (week 2-4): Linear models and regularization
-- Practical 2 (week 5-7): Neural networks
-
-For Practical 1 and Practical 2 you have to submit deliverables that will be graded and constitute 30% of the final grade. Thus, the work that you do during the practicals has double contribution towards the final grade: as 30% direct contribution and as a preparation for the exam that will define the other 70% of the grade. However note that not all the topics of the exam are covered in the practicals. More details on the specific deliverables are in the notebooks of each practical.
+For Project 1 (weeks 2-4) and Project 2 (week 5-7) you have to submit deliverables that will be graded and constitute 30% of the final grade. Thus, the work that you do during the practicals has double contribution towards the final grade: as 30% direct contribution and as a preparation for the exam that will define the other 70% of the grade. However note that not all the topics of the exam are covered in the practicals. More details on the specific deliverables are in the notebooks of each practical.
 
 The following rubric will be used when grading the practical work:
 
