@@ -28,7 +28,7 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 
 ### Practical assignments
 
-| # | Date | Title | Exercises |
+| # | Date | Location | Title | Exercises |
 | --- | --- | --- | --- | --- |
 | 1 | 04/Sep | Luna 1.050 | Project 0: Numpy refresher | [excercises](practicals/add), [slides](add)|
 | 2 | 11/Sep | Aud. 07 | Project 1.1: Linear and logistic regression | [excercises](practicals/add) |
