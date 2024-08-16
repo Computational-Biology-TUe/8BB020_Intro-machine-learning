@@ -20,6 +20,35 @@ The practical work will be done in groups. The groups will be formed in Canvas a
 
 **IMPORTANT: Please read [this guide](how_to_ask_questions.md) on effectively asking questions during the practical sessions.**
 
+
+### Goal of the practical exercises
+
+The exercises have two goals:
+
+1) Give you the opportunity to obtain 'hands-on' experience in implementing, training and evaluation machine learning models in Python. This experience will also help you better understand the theory covered during the lectures.
+
+2) Occasionally demonstrate some 'exam-style' questions that you can use as a reference when studying for the exam. Note however that the example questions are (as the name suggests) only examples and do not constitute a complete and sufficient list of 'things that you have to learn for the exam'. 
+
+ 
+### Deliverables
+
+There will be three practical divided over seven weeks as follows:
+
+- Practical 0 (week 1): Introduction to python and python packages for the course
+- Practical 1 (week 2-4): Linear models and regularization
+- Practical 2 (week 5-7): Neural networks
+
+For Practical 1 and Practical 2 you have to submit deliverables that will be graded and constitute 30% of the final grade. Thus, the work that you do during the practicals has double contribution towards the final grade: as 25% direct contribution and as a preparation for the exam that will define the other 70% of the grade. However note that not all the topics of the exam are covered in the practicals. More details on the specific deliverables are in the notebooks of each practical.
+
+The following rubric will be used when grading the practical work:
+
+| Component  | Insufficient | Satisfactory | Excellent |
+| ---------- | ------------- | ------------- | ------------- |
+| Code  | Missing or incomplete code structure, runs with errors, lacks documentation  | Self-contained, does not result in errors, contains some documentation, can be easily used to reproduce the reported results | User-friendly, well-structured (good separation of general functionality and experiments, i.e. between .py files and the Pyhthon notebook), detailed documentation, optimized for speed, 
+| Answers to questions  | Incorrect, does not convey understanding of the material, appears to be copied from another source | Correct, conveys good understanding of the material, description in own words | Correct, conveys excellent level of understanding, makes connections between topics | 
+
+ 
+
 ### Use of ChatGPT and other large language models
 
 The use of ChatGPT and other large language models for the practical work is allowed, provided that:
