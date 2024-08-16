@@ -8,40 +8,36 @@ This GitHub page contains all the general information about the course and the s
 
 **TLDR**: GitHub is for content, Canvas for communication and submission of assignments.
 
-## Schedule
-
-The course schedule is as follows:
-* **Lectures**, *time*: Wednesdays 13:30 - 15:30, *location*: Aud. 15 
-* **Guided self-study**, *time*: Wednesdays 15.30 - 17.30, *location*: generally in Aud. 07, except for week 1 (Luna 1.050) and week 3 (He. 0.01).
-
 ## Lectures and practicals
+
+Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 17.30 (after each lecture). Here below the schedule for the lectures and the practicals:
 
 ### Lectures
 
-| # | Date | Title | Slides |
-| --- | --- | --- | --- |
-| 1 | 04/Sep | Machine learning fundamentals | [intro ](lectures/add), [slides](lectures/add)|
-| 2 | 11/Sep | Linear and logistic regression | [slides](lectures/add) |
-| 3 | 18/Sep | Regularization for linear models | [slides](lectures/add) | 
-| 4 | 25/Sep | Methods for classification | [slides](lectures/add) |
-| 5 | 02/Oct | Neural networks, part 1 | [slides](lectures/add) |
-| 6 | 09/Oct | Neural networks, part 2 | [slides](lectures/add) |
-| 7 | 16/Oct | Unsupervised learning | [slides](lectures/add) |
-| 8 | 23/Oct | *No lecture* | - |
+| # | Date | Location | Title | Slides |
+| --- | --- | --- | --- | --- |
+| 1 | 04/Sep | Aud.15 | Machine learning fundamentals | [intro ](lectures/add), [slides](lectures/add)|
+| 2 | 11/Sep | Aud.15 | Linear and logistic regression | [slides](lectures/add) |
+| 3 | 18/Sep | Aud.15 | Regularization for linear models | [slides](lectures/add) | 
+| 4 | 25/Sep | Aud.15 | Methods for classification | [slides](lectures/add) |
+| 5 | 02/Oct | Aud.15 | Neural networks, part 1 | [slides](lectures/add) |
+| 6 | 09/Oct | Aud.15 | Neural networks, part 2 | [slides](lectures/add) |
+| 7 | 16/Oct | Aud.15 | Unsupervised learning | [slides](lectures/add) |
+| 8 | 23/Oct | - | *No lecture* | - |
 | :small_red_triangle:| 31/Oct | *Exam* | |
 
 ### Practical assignments
 
 | # | Date | Title | Exercises |
-| --- | --- | --- | --- |
-| 1 | 04/Sep | Project 0: Numpy refresher | [excercises](practicals/add), [slides](add)|
-| 2 | 11/Sep | Project 1.1: Linear and logistic regression | [excercises](practicals/add) |
-| 3 | 18/Sep | Project 1.2: Regularization for linear models | [excercises](practicals/add) | 
-| 4 | 25/Sep | Project 1.3: Application of linear models to a case study | [excercises](practicals/add) |
-| 5 | 02/Oct | Project 2.1: TBD | [excercises](practicals/add) |
-| 6 | 09/Oct | Project 2.1: TBD | [excercises](practicals/add) |
-| 7 | 16/Oct | Project 2.1: TBD | [excercises](practicals/add) |
-| 8 | 23/Oct | *Catch up week!* | - |
+| --- | --- | --- | --- | --- |
+| 1 | 04/Sep | Luna 1.050 | Project 0: Numpy refresher | [excercises](practicals/add), [slides](add)|
+| 2 | 11/Sep | Aud. 07 | Project 1.1: Linear and logistic regression | [excercises](practicals/add) |
+| 3 | 18/Sep | He. 0.01 | Project 1.2: Regularization for linear models | [excercises](practicals/add) | 
+| 4 | 25/Sep | Aud. 07 | Project 1.3: Application of linear models to a case study | [excercises](practicals/add) |
+| 5 | 02/Oct | Aud. 07 | Project 2.1: TBD | [excercises](practicals/add) |
+| 6 | 09/Oct | Aud. 07 | Project 2.1: TBD | [excercises](practicals/add) |
+| 7 | 16/Oct | Aud. 07 | Project 2.1: TBD | [excercises](practicals/add) |
+| 8 | 23/Oct | - | *No practical* | - |
 
 
 ## Practical work
