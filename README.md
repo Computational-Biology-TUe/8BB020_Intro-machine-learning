@@ -14,6 +14,36 @@ The course schedule is as follows:
 * **Lectures**, *time*: Wednesdays 13:30 - 15:30, *location*: Aud. 15 
 * **Guided self-study**, *time*: Wednesdays 15.30 - 17.30, *location*: generally in Aud. 07, except for week 1 (Luna 1.050) and week 3 (He. 0.01).
 
+## Lectures and practicals
+
+### Lectures
+
+| # | Date | Title | Slides |
+| --- | --- | --- | --- |
+| 1 | 04/Sep | Machine learning fundamentals | [intro ](lectures/add), [slides](lectures/add)|
+| 2 | 11/Sep | Linear and logistic regression | [slides](lectures/add) |
+| 3 | 18/Sep | Regularization for linear models | [slides](lectures/add) | 
+| 4 | 25/Sep | Methods for classification | [slides](lectures/add) |
+| 5 | 02/Oct | Neural networks, part 1 | [slides](lectures/add) |
+| 6 | 09/Oct | Neural networks, part 2 | [slides](lectures/add) |
+| 7 | 16/Oct | Unsupervised learning | [slides](lectures/add) |
+| 8 | 23/Oct | *No lecture* | - |
+| :small_red_triangle:| 31/Oct | *Exam* | |
+
+### Practical assignments
+
+| # | Date | Title | Exercises |
+| --- | --- | --- | --- |
+| 1 | 04/Sep | Project 0: Numpy refresher | [excercises](practicals/add), [slides](add)|
+| 2 | 11/Sep | Project 1.1: Linear and logistic regression | [excercises](practicals/add) |
+| 3 | 18/Sep | Project 1.2: Regularization for linear models | [excercises](practicals/add) | 
+| 4 | 25/Sep | Project 1.3: Application of linear models to a case study | [excercises](practicals/add) |
+| 5 | 02/Oct | Project 2.1: TBD | [excercises](practicals/add) |
+| 6 | 09/Oct | Project 2.1: TBD | [excercises](practicals/add) |
+| 7 | 16/Oct | Project 2.1: TBD | [excercises](practicals/add) |
+| 8 | 23/Oct | *Catch up week!* | - |
+
+
 ## Practical work
 
 The practical work will be done in groups. The groups will be formed in Canvas and you will also submit all your work there (check the Assignments section for the deadlines). Your are expected to do this work independently with the help of the teaching assistants during the guided self-study sessions (*begeleide zelfstudie*). You can also post your questions in the Discussion section in Canvas at any time (i.e. not just during the practical sessions).
@@ -73,51 +103,7 @@ The lectures are mainly based on the selected chapters from the following book t
 
 Additional reading materials such as journal articles are listed within the lecture slides.
 
-## Software
 
-**IMPORTANT: It is essential that you correctly set up the Python working environment by the end of the first week of the course so there are no delays in the work on the practicals.**
-
-The practical assignments for this course will be done in Python. Please carefully follow [the instructions available here](software.md) on setting up the working environment and (optionally) a Git workflow for your group.
-
-## Python quiz
-
-**IMPORTANT: Attempting the quiz before the specified deadline is mandatory.**
-
-In the first week of the course you have to do a Python self-assessment quiz in Canvas. The quiz will not be graded. If you fail to complete the quiz before the deadline, you will not get a grade for the course. The goal of the quiz is to give you an idea of the Python programming level that is expected.
-
-If you lack prior knowledge of the Python programming language, you can use the material in the "Python essentials" and "Numerical and scientific computing in Python" modules available [here](https://github.com/tueimage/essential-skills/).
-
-## Lectures and assignments
-
-
-### Lectures
-
-| # | Date | Title | Slides |
-| --- | --- | --- | --- |
-| 1 | 04/Sep | Machine learning fundamentals | [intro ](lectures/add), [slides](lectures/add)|
-| 2 | 11/Sep | Linear and logistic regression | [slides](lectures/add) |
-| 3 | 18/Sep | Regularization for linear models | [slides](lectures/add) | 
-| 4 | 25/Sep | Methods for classification | [slides](lectures/add) |
-| 5 | 02/Oct | Neural networks, part 1 | [slides](lectures/add) |
-| 6 | 09/Oct | Neural networks, part 2 | [slides](lectures/add) |
-| 7 | 16/Oct | Unsupervised learning | [slides](lectures/add) |
-| 8 | 23/Oct | *No lecture* | - |
-| :small_red_triangle:| 31/Oct | *Exam* | |
-
-### Practical assignments
-
-| # | Date | Title | Exercises |
-| --- | --- | --- | --- |
-| 1 | 04/Sep | Project 0: Numpy refresher | [excercises](practicals/add), [slides](add)|
-| 2 | 11/Sep | Project 1.1: Linear and logistic regression | [excercises](practicals/add) |
-| 3 | 18/Sep | Project 1.2: Regularization for linear models | [excercises](practicals/add) | 
-| 4 | 25/Sep | Project 1.3: Application of linear models to a case study | [excercises](practicals/add) |
-| 5 | 02/Oct | Project 2.1: TBD | [excercises](practicals/add) |
-| 6 | 09/Oct | Project 2.1: TBD | [excercises](practicals/add) |
-| 7 | 16/Oct | Project 2.1: TBD | [excercises](practicals/add) |
-| 8 | 23/Oct | *Catch up week!* | - |
-
-Project 0 will not be evaluated. The deadline for submission of Project 1 is in week 5. The deadline for submission of Project 2 is in week 8.
 
 # Other course information
 
