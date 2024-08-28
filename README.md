@@ -16,13 +16,13 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 
 | # | Date | Location | Title | Slides |
 | --- | --- | --- | --- | --- |
-| 1 | 04/Sep | Aud.15 | Machine learning fundamentals | [intro ](lectures/add), [slides](lectures/add)|
-| 2 | 11/Sep | Aud.15 | Linear and logistic regression | [slides](lectures/add) |
-| 3 | 18/Sep | Aud.15 | Regularization for linear models | [slides](lectures/add) | 
-| 4 | 25/Sep | Aud.15 | Methods for classification | [slides](lectures/add) |
-| 5 | 02/Oct | Aud.15 | Neural networks, part 1 | [slides](lectures/add) |
-| 6 | 09/Oct | Aud.15 | Neural networks, part 2 | [slides](lectures/add) |
-| 7 | 16/Oct | Aud.15 | Unsupervised learning | [slides](lectures/add) |
+| 1 | 04/Sep | Aud.15 | Machine learning fundamentals | |
+| 2 | 11/Sep | Aud.15 | Linear and logistic regression |  |
+| 3 | 18/Sep | Aud.15 | Regularization for linear models |  | 
+| 4 | 25/Sep | Aud.15 | Methods for classification |  |
+| 5 | 02/Oct | Aud.15 | Neural networks, part 1 |  |
+| 6 | 09/Oct | Aud.15 | Neural networks, part 2 |  |
+| 7 | 16/Oct | Aud.15 | Unsupervised learning |  |
 | 8 | 23/Oct | - | *No lecture* | - |
 | :small_red_triangle:| 31/Oct | *Exam* | |
 
@@ -30,13 +30,13 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 
 | # | Date | Location | Title | Exercises |
 | --- | --- | --- | --- | --- |
-| 1 | 04/Sep | Luna 1.050 | Project 0: Numpy refresher | [excercises](practicals/add), [slides](add)|
-| 2 | 11/Sep | Aud. 07 | Project 1.1: Linear and logistic regression | [excercises](practicals/add) |
-| 3 | 18/Sep | He. 0.01 | Project 1.2: Regularization for linear models | [excercises](practicals/add) | 
-| 4 | 25/Sep | Aud. 07 | Project 1.3: Application of linear models to a case study | [excercises](practicals/add) |
-| 5 | 02/Oct | Aud. 07 | Project 2.1: TBD | [excercises](practicals/add) |
-| 6 | 09/Oct | Aud. 07 | Project 2.1: TBD | [excercises](practicals/add) |
-| 7 | 16/Oct | Aud. 07 | Project 2.1: TBD | [excercises](practicals/add) |
+| 1 | 04/Sep | Luna 1.050 | Project 0: Numpy refresher | [practicals](practicals/part0_intro.ipynb) |
+| 2 | 11/Sep | Aud. 07 | Project 1.1: Linear and logistic regression |  |
+| 3 | 18/Sep | He. 0.01 | Project 1.2: Regularization for linear models |  | 
+| 4 | 25/Sep | Aud. 07 | Project 1.3: Application of linear models to a case study |  |
+| 5 | 02/Oct | Aud. 07 | Project 2.1: TBD |  |
+| 6 | 09/Oct | Aud. 07 | Project 2.1: TBD |  |
+| 7 | 16/Oct | Aud. 07 | Project 2.1: TBD |  |
 | 8 | 23/Oct | - | *No practical* | - |
 
 
