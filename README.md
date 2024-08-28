@@ -30,7 +30,7 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 
 | # | Date | Location | Title | Exercises |
 | --- | --- | --- | --- | --- |
-| 1 | 04/Sep | Luna 1.050 | Project 0: Numpy refresher | [practicals](practicals/part0_intro.ipynb) |
+| 1 | 04/Sep | Luna 1.050 | Project 0: Introduction | [practicals](practicals/part0_intro.ipynb) |
 | 2 | 11/Sep | Aud. 07 | Project 1.1: Linear and logistic regression |  |
 | 3 | 18/Sep | He. 0.01 | Project 1.2: Regularization for linear models |  | 
 | 4 | 25/Sep | Aud. 07 | Project 1.3: Application of linear models to a case study |  |
