@@ -16,7 +16,7 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 
 | # | Date | Location | Title | Slides |
 | --- | --- | --- | --- | --- |
-| 1 | 04/Sep | Aud.15 | Machine learning fundamentals | [intro](lectures/week1_Intro.pdf), [lectures](lectures/week1_lecture.pdf) |
+| 1 | 04/Sep | Aud.15 | Machine learning fundamentals | [intro](lectures/week1_Intro.pdf), [lecture](lectures/week1_lecture.pdf) |
 | 2 | 11/Sep | Aud.15 | Linear and logistic regression |  |
 | 3 | 18/Sep | Aud.15 | Regularization for linear models |  | 
 | 4 | 25/Sep | Aud.15 | Methods for classification |  |
@@ -30,7 +30,7 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 
 | # | Date | Location | Title | Exercises |
 | --- | --- | --- | --- | --- |
-| 1 | 04/Sep | ~~ ~~Luna 1.050~~ ~~ Gem-Z 3A.05 * | Project 0: Introduction | [practicals](practicals/part0_intro.ipynb) |
+| 1 | 04/Sep | ~~ ~~Luna 1.050~~ ~~ Gem-Z 3A.05 * | Project 0: Introduction | [practical](practicals/part0_intro.ipynb) |
 | 2 | 11/Sep | Aud. 07 | Project 1.1: Linear and logistic regression |  |
 | 3 | 18/Sep | He. 0.01 | Project 1.2: Regularization for linear models |  | 
 | 4 | 25/Sep | Aud. 07 | Project 1.3: Application of linear models to a case study |  |
