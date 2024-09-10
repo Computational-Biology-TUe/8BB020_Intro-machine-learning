@@ -17,7 +17,7 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 | # | Date | Location | Title | Slides |
 | --- | --- | --- | --- | --- |
 | 1 | 04/Sep | Aud.15 | Machine learning fundamentals | [intro](lectures/week1_Intro.pdf), [lecture](lectures/week1_lecture.pdf) |
-| 2 | 11/Sep | Aud.15 | Linear and logistic regression |  |
+| 2 | 11/Sep | Aud.15 | Linear and logistic regression | [lecture](lectures/week2_Linear models.pdf) |
 | 3 | 18/Sep | Aud.15 | Regularization for linear models |  | 
 | 4 | 25/Sep | Aud.15 | Methods for classification |  |
 | 5 | 02/Oct | Aud.15 | Neural networks, part 1 |  |
