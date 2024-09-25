@@ -19,7 +19,7 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 | 1 | 04/Sep | Aud.15 | Machine learning fundamentals | [intro](lectures/week1_Intro.pdf), [lecture](lectures/week1_lecture.pdf) |
 | 2 | 11/Sep | Aud.15 | Linear and logistic regression | [lecture](lectures/week2_lecture.pdf) |
 | 3 | 18/Sep | Aud.15 | Regularization for linear models | [lecture](lectures/week3_lecture.pdf)  | 
-| 4 | 25/Sep | Aud.15 | Support vector machines and tree-based methods | [lecture](lectures/week4_lecture.pdf) |
+| 4 | 25/Sep | Aud.15 | Support vector machines and tree-based methods | [lecture (corrected)](lectures/week4_lecture.pdf) |
 | 5 | 02/Oct | Aud.15 | Neural networks, part 1 |  |
 | 6 | 09/Oct | Aud.15 | Neural networks, part 2 |  |
 | 7 | 16/Oct | Aud.15 | Unsupervised learning |  |
@@ -32,7 +32,7 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 | --- | --- | --- | --- | --- |
 | 1 | 04/Sep | ~~Luna 1.050~~ Gem-Z 3A.05 * | Project 0: Introduction | [project 0](practicals/part0_intro.ipynb) |
 | 2 | 11/Sep | Aud. 07 | Project 1.1: Linear and logistic regression | [project 1](practicals/part_1_linear_models.ipynb),  [solution project 1.1](practicals/solutions_project_11.pdf)|
-| 3 | 18/Sep | ~~He. 0.01~~ Gem-Z 3A.05 * | Project 1.2: Regularization for linear models |  | 
+| 3 | 18/Sep | ~~He. 0.01~~ Gem-Z 3A.05 * | Project 1.2: Regularization for linear models | [solution project 1.2](practicals/solutions_project_12.pdf) | 
 | 4 | 25/Sep | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 1.3: Application of linear models to a case study |  |
 | 5 | 02/Oct | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 2.1: Neural networks, part 1 |  |
 | 6 | 09/Oct | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 2.1: Neural networks, part 2 |  |
