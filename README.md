@@ -20,7 +20,7 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 | 2 | 11/Sep | Aud.15 | Linear and logistic regression | [lecture](lectures/week2_lecture.pdf) |
 | 3 | 18/Sep | Aud.15 | Regularization for linear models | [lecture](lectures/week3_lecture.pdf)  | 
 | 4 | 25/Sep | Aud.15 | Support vector machines and tree-based methods | [lecture (corrected)](lectures/week4_lecture.pdf) |
-| 5 | 02/Oct | Aud.15 | Neural networks, part 1 |  |
+| 5 | 02/Oct | Aud.15 | Neural networks, part 1 | [lecture](lectures/week5_lecture.pdf)  |
 | 6 | 09/Oct | Aud.15 | Neural networks, part 2 |  |
 | 7 | 16/Oct | Aud.15 | Unsupervised learning |  |
 | 8 | 23/Oct | - | *No lecture* | - |
