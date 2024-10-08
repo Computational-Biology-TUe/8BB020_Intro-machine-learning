@@ -34,7 +34,7 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 | 2 | 11/Sep | Aud. 07 | Project 1.1: Linear and logistic regression | [project 1](practicals/part_1_linear_models.ipynb),  [solution project 1.1](practicals/solutions_project_11.pdf)|
 | 3 | 18/Sep | ~~He. 0.01~~ Gem-Z 3A.05 * | Project 1.2: Regularization for linear models | [solution project 1.2](practicals/solutions_project_12.pdf) | 
 | 4 | 25/Sep | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 1.3: Application of linear models to a case study |  |
-| 5 | 02/Oct | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 2.1: Neural networks, part 1 |  |
+| 5 | 02/Oct | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 2.1: Neural networks, part 1 | [project 2](practicals/part_2.ipynb) |
 | 6 | 09/Oct | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 2.1: Neural networks, part 2 |  |
 | 7 | 16/Oct | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 2.1: Application of neural networks to a case study |  |
 | 8 | 23/Oct | - | *No practical* | - |
