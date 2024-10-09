@@ -661,13 +661,7 @@ class ToyDataset:
         self.X, self.y = self._generate_data(self.dataset_type)
 
     def _generate_data(self, operation: str) -> Tuple[np.ndarray, np.ndarray]:
-        if operation == 'xor':
-            X = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
-            y = np.array([0, 1, 1, 0])
-        elif operation == 'and':
-            X = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
-            y = np.array([0, 0, 0, 1])
-        elif operation == 'circles':
+        if operation == 'circles':
             X, y = make_circles(n_samples=self.n_samples, noise=self.noise, factor=0.5, random_state=42)
         elif operation == 'spirals':
             X, y = self._generate_spirals(self.n_samples, self.noise)
@@ -756,7 +750,7 @@ class ToyDataset:
         model_initialized = self._initialize_model(model)
         nn_model = self._train_model(self.X, self.y, model_initialized, self.epochs)
 
-        fig, axs = plt.subplots(1, 2, figsize=(12, 5))
+        fig, ax = plt.subplots(figsize=(6, 5))
         self.plot_decision_boundary(self.X, self.y, nn_model, ax, model_initialized.__class__.__name__ + f' on {self.dataset_type.upper()} Problem')
         plt.show()
 
