@@ -23,7 +23,7 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 | 5 | 02/Oct | Aud.15 | Neural networks, part 1 | [lecture](lectures/week5_lecture.pdf)  |
 | 6 | 09/Oct | Aud.15 | Neural networks, part 2 | [lecture](lectures/week6_lecture.pdf)  |
 | 7 | 16/Oct | Aud.15 | Unsupervised learning | [lecture](lectures/week7_lecture.pdf)  |
-| 8 | 23/Oct | Aud.15 | *No lecture* Discussion [example questions](Example_questions.pdf) | - |
+| 8 | 23/Oct | Aud.15 | *No lecture* - Discussion [example questions](Example_questions.pdf) | - |
 | :small_red_triangle:| 31/Oct | *Exam* | |
 
 ### Practical assignments
