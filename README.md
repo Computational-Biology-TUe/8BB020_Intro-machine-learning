@@ -77,28 +77,31 @@ The following rubric will be used when grading the practical work:
  
 ## Use of ChatGPT, GitHub Copilot, and other AI tools
 
-The use of ChatGPT, GitHub Copilot, and similar AI tools is **allowed** for the practical work, provided that:  
+The use of ChatGPT, GitHub Copilot, and similar AI tools is **allowed** in this course, provided that you follow the official  
+[TU/e Working Agreement for AI Use in Education (Nov 2024, PDF)](https://assets.w3.tue.nl/w/fileadmin/Education_Guide/Content/Programs/Testing%20and%20assessment/AI%20Rules_TUe.pdf).
 
-- They are used as **support** (e.g. improving writing or debugging code), not as the **primary source** of information or a way to generate full assignment answers.  
-- If you use such tools, you must submit a **one-page reflection report** with your assignment, addressing:  
-  1. How you used the tool (with examples)  
-  2. Whether the answers were accurate  
-  3. Pros and cons of using it in your work  
-  4. Whether you found it **useful or harmful** in education  
-  5. Its impact on your productivity  
+### Key points from the TU/e rules
+- **Allowed uses**: brainstorming, summarizing, refining writing, translating, and using AI as a sparring partner — unless explicitly forbidden by the examiner.  
+- **AI is not a reliable source**: outputs must always be critically evaluated.  
+- **Transparency required**: if AI replaces or generates part of your work, you must name the tool, version, and describe how you used it.  
+- **Not allowed**: generating research data (quantitative or qualitative) with AI, unless explicitly permitted.  
+- **Fraud risk**: undeclared or disallowed use of AI can be considered fraud. AI-detection tools alone are *not* sufficient proof, but checks (e.g. oral exams) may be applied.  
+
+### Course-specific requirement
+If you use AI tools in your assignments, you must submit a **one-page reflection report** together with your work.  
+This report should address:  
+1. How you used the tool (with examples)  
+2. Whether the answers were accurate  
+3. Pros and cons of using it in your work  
+4. Whether you found it **useful or harmful** in education  
+5. Its impact on your productivity  
 
 The reflection report is **mandatory** if you used AI tools. Not submitting it while having used them will be considered **cheating**.  
 
-According to the official [TU/e Working Agreement for AI Use in Education (PDF)](https://assets.w3.tue.nl/w/fileadmin/Education_Guide/Content/Programs/Testing%20and%20assessment/AI%20Rules_TUe.pdf):  
-
--  **Allowed uses**: brainstorming, summarizing, refining writing, translating, and using AI as a sparring partner — unless explicitly forbidden by the examiner.  
--  **AI is not a reliable source**: outputs must always be critically evaluated.  
--  **Transparency required**: if AI replaces or generates part of your work, you must name the tool, version, and describe how you used it.  
--  **Not allowed**: generating research data (quantitative or qualitative) with AI, unless explicitly permitted.  
--  **Fraud risk**: undeclared or disallowed use of AI can be considered fraud. AI-detection tools alone are *not* sufficient proof, but checks (e.g. oral exams) may be applied.  
+---
 
 Further information:  
-- [Tips & lessons learned from previous students](./AI_tips.md) 
+- [Tips & lessons learned from previous students](./AI_tips.md)  
 
 # Materials
 
