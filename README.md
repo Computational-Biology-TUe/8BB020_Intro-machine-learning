@@ -36,11 +36,11 @@ The content will remain largely the same, but there may be edits.
 
 | # | Date | Location | Title | Exercises |
 | --- | --- | --- | --- | --- |
-| 1 | 03/Sep |  | Project 0: Introduction | [project 0](practicals/part0_intro.ipynb) |
-| 2 | 10/Sep |  | Project 1.1: Linear and logistic regression | [project 1](practicals/part_1_linear_models.ipynb),  [solution project 1.1](practicals/solutions_project_11.pdf)|
-| 3 | 17/Sep |  | Project 1.2: Regularization for linear models | [solution project 1.2](practicals/solutions_project_12.pdf) | 
+| 1 | 03/Sep |  | Project 0: Introduction |  |
+| 2 | 10/Sep |  | Project 1.1: Linear and logistic regression | |
+| 3 | 17/Sep |  | Project 1.2: Regularization for linear models |  | 
 | 4 | 24/Sep |  | Project 1.3: Application of linear models to a case study |  |
-| 5 | 01/Oct |  | Project 2.1: Neural networks, part 1 | [project 2](practicals/part_2.ipynb) |
+| 5 | 01/Oct |  | Project 2.1: Neural networks, part 1 | |
 | 6 | 08/Oct |  | Project 2.1: Neural networks, part 2 |  |
 | 7 | 15/Oct |  | Project 2.1: Application of neural networks to a case study |  |
 | 8 | 22/Oct | - | *No practical* | - |
