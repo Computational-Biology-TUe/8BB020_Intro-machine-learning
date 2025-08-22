@@ -15,20 +15,20 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 ### Lectures
 
 ⚠️ **Important note for students**:  
-Slides marked in <span style="color:red">**red (2024)**</span> are from last year and are provided only to give you an idea of the course content.  
-Slides marked in <span style="color:green">**green (2025)**</span> are the updated ones for this year and will be uploaded here **before each lecture**.  
+Slides marked with **🔴 (2024)** are from last year and are provided only to give you an idea of the course content.  
+Slides marked with **🟢 (2025)** are the updated ones for this year and will be uploaded here **before each lecture**.  
 The content will remain largely the same, but there may be edits.  
-👉 Please **always download the latest slides before class**.
+👉 Please **always download the 2025 version of the slides**.
 
 | Week | Date   | Room   | Topic                               | Slides |
 |------|--------|--------|-------------------------------------|--------|
-| 1    | 03/Sep |  | Machine learning fundamentals       | [intro](lectures/week1_Intro.pdf) <span style="color:red">(2024)</span>, [lecture](lectures/week1_lecture.pdf) <span style="color:red">(2024)</span> |
-| 2    | 10/Sep |  | Linear and logistic regression      | [lecture](lectures/week2_lecture_2024.pdf) <span style="color:red">(2024)</span> |
-| 3    | 17/Sep |  | Regularization for linear models    | [lecture](lectures/week3_lecture_2024.pdf) <span style="color:red">(2024)</span> |
-| 4    | 24/Sep |  | SVMs and tree-based methods         | [lecture](lectures/week4_lecture_2024.pdf) <span style="color:red">(2024)</span> |
-| 5    | 01/Oct |  | Neural networks, part 1             | [lecture](lectures/week5_lecture_2024.pdf) <span style="color:red">(2024)</span> |
-| 6    | 08/Oct |  | Neural networks, part 2             | [lecture](lectures/week6_lecture_2024.pdf) <span style="color:red">(2024)</span> |
-| 7    | 15/Oct |  | Unsupervised learning               | [lecture](lectures/week7_lecture_2024.pdf) <span style="color:red">(2024)</span> |
+| 1    | 03/Sep |  | Machine learning fundamentals       | [intro](lectures/week1_Intro.pdf) 🔴, [lecture](lectures/week1_lecture.pdf) 🔴 |
+| 2    | 10/Sep |  | Linear and logistic regression      | [lecture](lectures/week2_lecture_2024.pdf) 🔴 |
+| 3    | 17/Sep |  | Regularization for linear models    | [lecture](lectures/week3_lecture_2024.pdf) 🔴 |
+| 4    | 24/Sep |  | SVMs and tree-based methods         | [lecture](lectures/week4_lecture_2024.pdf) 🔴 |
+| 5    | 01/Oct |  | Neural networks, part 1             | [lecture](lectures/week5_lecture_2024.pdf) 🔴 |
+| 6    | 08/Oct |  | Neural networks, part 2             | [lecture](lectures/week6_lecture_2024.pdf) 🔴 |
+| 7    | 15/Oct |  | Unsupervised learning               | [lecture](lectures/week7_lecture_2024.pdf) 🔴 |
 | 8 | 22/Oct | Aud.15 | *No lecture* | - |
 | :small_red_triangle:| 30/Oct | *Exam* | - |
 
