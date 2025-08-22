@@ -22,7 +22,7 @@ The content will remain largely the same, but there may be edits.
 
 | Week | Date   | Room   | Topic                               | Slides |
 |------|--------|--------|-------------------------------------|--------|
-| 1    | 03/Sep |  | Machine learning fundamentals       | [intro](lectures/week1_Intro.pdf) 🔴, [lecture](lectures/week1_lecture.pdf) 🔴 |
+| 1    | 03/Sep |  | Machine learning fundamentals       | [intro](lectures/week1_Intro_2024.pdf) 🔴, [lecture](lectures/week1_lecture_2024.pdf) 🔴 |
 | 2    | 10/Sep |  | Linear and logistic regression      | [lecture](lectures/week2_lecture_2024.pdf) 🔴 |
 | 3    | 17/Sep |  | Regularization for linear models    | [lecture](lectures/week3_lecture_2024.pdf) 🔴 |
 | 4    | 24/Sep |  | SVMs and tree-based methods         | [lecture](lectures/week4_lecture_2024.pdf) 🔴 |
