@@ -1,4 +1,4 @@
-# Tips & Lessons Learned for Using AI Tools (ChatGPT, Copilot, etc.)
+# Tips & Lessons Learned for Using LLM-based Tools (ChatGPT, GitHub Copilot, etc.)
 
 Based on reflections from previous students and research:
 
@@ -10,22 +10,22 @@ Based on reflections from previous students and research:
 - Brainstorming project ideas  
 
 ## Limitations and pitfalls
-- **Accuracy issues**: AI can produce wrong or misleading answers. Always check results.  
-- **Over-reliance**: Risk of letting AI “do the work” instead of learning.  
+- **Accuracy issues**: These tools can produce wrong or misleading answers. Always check results.  
+- **Over-reliance**: Risk of letting these tools  “do the work” instead of learning.  
 - **Shallow understanding**: Summaries often lack scientific depth and context.  
 - **Passive learning**: Quick fixes can reduce motivation to engage with material.  
 
-## How to use AI tools effectively
+## How to use LLM-based tools effectively
 - 🎯 Ask specific, targeted questions  
 - 🔁 Use follow-ups to refine answers  
 - 🧠 Think critically and fact-check outputs  
-- 📚 Balance AI support with textbooks, papers, and lectures  
-- ✍️ Reflect on when AI helped or misled you  
+- 📚 Balance their support with textbooks, papers, and lectures  
+- ✍️ Reflect on when they helped and when they misled you  
 
 ## Overall student impressions
-- Many found AI increased productivity, especially for coding.  
+- Many found tools like ChatGPT or Copilot increased productivity, especially for coding.  
 - Some saw little added value when they already had strong skills.  
-- Most agreed AI is useful if used responsibly, but harmful if it replaces active engagement.  
+- Most agreed they are useful if used responsibly, but harmful if they replace active engagement.  
 
 ## Research evidence
 Recent research supports these reflections:  
