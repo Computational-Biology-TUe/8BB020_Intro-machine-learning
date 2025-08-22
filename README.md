@@ -29,7 +29,7 @@ The content will remain largely the same, but there may be edits.
 | 5    | 01/Oct |  | Neural networks, part 1             | [lecture](lectures/week5_lecture_2024.pdf) 🔴 |
 | 6    | 08/Oct |  | Neural networks, part 2             | [lecture](lectures/week6_lecture_2024.pdf) 🔴 |
 | 7    | 15/Oct |  | Unsupervised learning               | [lecture](lectures/week7_lecture_2024.pdf) 🔴 |
-| 8 | 22/Oct | Aud.15 | *No lecture* | - |
+| 8 | 22/Oct |  | *No lecture* | - |
 | :small_red_triangle:| 30/Oct | *Exam* | - |
 
 ### Practical assignments
