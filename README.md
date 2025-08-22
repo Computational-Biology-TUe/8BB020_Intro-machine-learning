@@ -99,10 +99,7 @@ This report should address:
 
 The reflection report is **mandatory** if you used AI tools. Not submitting it while having used them will be considered **cheating**.  
 
----
-
-Further information:  
-- [Tips & lessons learned from previous students](./AI_tips.md)  
+Further information: [Tips & lessons learned from previous students](./AI_tips.md)  
 
 # Materials
 
