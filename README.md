@@ -14,30 +14,36 @@ Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 1
 
 ### Lectures
 
-| # | Date | Location | Title | Slides |
-| --- | --- | --- | --- | --- |
-| 1 | 04/Sep | Aud.15 | Machine learning fundamentals | [intro](lectures/week1_Intro.pdf), [lecture](lectures/week1_lecture.pdf) |
-| 2 | 11/Sep | Aud.15 | Linear and logistic regression | [lecture](lectures/week2_lecture.pdf) |
-| 3 | 18/Sep | Aud.15 | Regularization for linear models | [lecture](lectures/week3_lecture.pdf)  | 
-| 4 | 25/Sep | Aud.15 | Support vector machines and tree-based methods | [lecture (corrected)](lectures/week4_lecture.pdf) |
-| 5 | 02/Oct | Aud.15 | Neural networks, part 1 | [lecture](lectures/week5_lecture.pdf)  |
-| 6 | 09/Oct | Aud.15 | Neural networks, part 2 | [lecture](lectures/week6_lecture.pdf)  |
-| 7 | 16/Oct | Aud.15 | Unsupervised learning | [lecture](lectures/week7_lecture.pdf)  |
-| 8 | 23/Oct | Aud.15 | *No lecture* - Discussion [example questions](Example_questions.pdf) | - |
-| :small_red_triangle:| 31/Oct | *Exam* | |
+⚠️ **Important note for students**:  
+Slides marked in <span style="color:red">**red (2024)**</span> are from last year and are provided only to give you an idea of the course content.  
+Slides marked in <span style="color:green">**green (2025)**</span> are the updated ones for this year and will be uploaded here **before each lecture**.  
+The content will remain largely the same, but there may be edits.  
+👉 Please **always download the latest slides before class**.
+
+| Week | Date   | Room   | Topic                               | Slides |
+|------|--------|--------|-------------------------------------|--------|
+| 1    | 03/Sep |  | Machine learning fundamentals       | [intro](lectures/week1_Intro.pdf) <span style="color:red">(2024)</span>, [lecture](lectures/week1_lecture.pdf) <span style="color:red">(2024)</span> |
+| 2    | 10/Sep |  | Linear and logistic regression      | [lecture](lectures/week2_lecture_2024.pdf) <span style="color:red">(2024)</span> |
+| 3    | 17/Sep |  | Regularization for linear models    | [lecture](lectures/week3_lecture_2024.pdf) <span style="color:red">(2024)</span> |
+| 4    | 24/Sep |  | SVMs and tree-based methods         | [lecture](lectures/week4_lecture_2024.pdf) <span style="color:red">(2024)</span> |
+| 5    | 01/Oct |  | Neural networks, part 1             | [lecture](lectures/week5_lecture_2024.pdf) <span style="color:red">(2024)</span> |
+| 6    | 08/Oct |  | Neural networks, part 2             | [lecture](lectures/week6_lecture_2024.pdf) <span style="color:red">(2024)</span> |
+| 7    | 15/Oct |  | Unsupervised learning               | [lecture](lectures/week7_lecture_2024.pdf) <span style="color:red">(2024)</span> |
+| 8 | 22/Oct | Aud.15 | *No lecture* | - |
+| :small_red_triangle:| 30/Oct | *Exam* | - |
 
 ### Practical assignments
 
 | # | Date | Location | Title | Exercises |
 | --- | --- | --- | --- | --- |
-| 1 | 04/Sep | ~~Luna 1.050~~ Gem-Z 3A.05 * | Project 0: Introduction | [project 0](practicals/part0_intro.ipynb) |
-| 2 | 11/Sep | Aud. 07 | Project 1.1: Linear and logistic regression | [project 1](practicals/part_1_linear_models.ipynb),  [solution project 1.1](practicals/solutions_project_11.pdf)|
-| 3 | 18/Sep | ~~He. 0.01~~ Gem-Z 3A.05 * | Project 1.2: Regularization for linear models | [solution project 1.2](practicals/solutions_project_12.pdf) | 
-| 4 | 25/Sep | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 1.3: Application of linear models to a case study |  |
-| 5 | 02/Oct | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 2.1: Neural networks, part 1 | [project 2](practicals/part_2.ipynb) |
-| 6 | 09/Oct | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 2.1: Neural networks, part 2 |  |
-| 7 | 16/Oct | ~~Aud. 07~~ Gem-Z 3A.05 * | Project 2.1: Application of neural networks to a case study |  |
-| 8 | 23/Oct | - | *No practical* | - |
+| 1 | 03/Sep |  | Project 0: Introduction | [project 0](practicals/part0_intro.ipynb) |
+| 2 | 10/Sep |  | Project 1.1: Linear and logistic regression | [project 1](practicals/part_1_linear_models.ipynb),  [solution project 1.1](practicals/solutions_project_11.pdf)|
+| 3 | 17/Sep |  | Project 1.2: Regularization for linear models | [solution project 1.2](practicals/solutions_project_12.pdf) | 
+| 4 | 24/Sep |  | Project 1.3: Application of linear models to a case study |  |
+| 5 | 01/Oct |  | Project 2.1: Neural networks, part 1 | [project 2](practicals/part_2.ipynb) |
+| 6 | 08/Oct |  | Project 2.1: Neural networks, part 2 |  |
+| 7 | 15/Oct |  | Project 2.1: Application of neural networks to a case study |  |
+| 8 | 22/Oct | - | *No practical* | - |
 
 <ins>*Please note that the room all upcoming practical sessions has been changed, the new room is Gem-Z 3A.05</ins>
 
@@ -132,14 +138,12 @@ Course instructors:
 * Federica Eduati
 * Mitko Veta
 * Cian Scannel
-* Peter Ebus
 
 Teaching assistants:
-* Jesse Quadt
-* Myrthe Boone
-* Wafae Quorsane
-* Mathijs van Gerven
 * Simon Habraken
+* Bram Hormann
+* Niels van Noort
+* Jelle van der Pas
 
 ## Recommended prerequisite courses
 
