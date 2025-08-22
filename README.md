@@ -84,7 +84,7 @@ The use of generative AI assistants such as **ChatGPT, GitHub Copilot, and other
 - **AI is not a reliable source**: outputs must always be critically evaluated.  
 - **Transparency required**: if AI replaces or generates part of your work, you must name the tool, version, and describe how you used it.  
 - **Not allowed**: generating research data (quantitative or qualitative) with AI, unless explicitly permitted. 
-- **Fraud risk**: undeclared or disallowed use of AI can be considered fraud. AI-detection tools alone are *not* sufficient proof, but checks (e.g. oral exams) may be applied.
+- **Fraud risk**: undeclared or disallowed use of AI can be considered fraud and checks (e.g. oral exams) may be applied.
 
 ### Course-specific requirement
 ChatGPT, GitHub Copilot, or similar LLM-based tools can be used as **support** (e.g. improving writing or debugging code), not as the **primary source** of information or a way to generate full assignment answers. 
