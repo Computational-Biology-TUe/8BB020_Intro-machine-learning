@@ -10,11 +10,11 @@ Machine learning is becoming increasingly important in biomedical engineering, a
 
 This GitHub repository contains the course information and study materials.  
 The [Canvas page](https://canvas.tue.nl/courses/31400) is used only for:  
-- Announcements and course information that cannot be made public (e.g. Microsoft Teams links)  
+- Announcements and course information that cannot be made public (e.g. possible links to video recordings)  
 - Submission of practical work  
 - Posting questions in the **Discussion** section  
 
-Students are strongly encouraged to use the Canvas Discussion section for all general questions (e.g. programming environment setup, error messages, or methodology).  
+Students are strongly encouraged to use the Canvas Discussion section for all general questions (e.g. programming environment setup, error messages, or methodology). Chances are that other students have the same question, and posting it there allows everyone to benefit and turn it into an interactive discussion. 
 
 ## Lectures and practicals
 
@@ -57,30 +57,50 @@ The content will remain largely the same, but there may be edits.
 
 ## Practical work
 
-The practical work will be done in groups. The groups will be formed in Canvas and you will also submit all your work there (check the Assignments section for the deadlines). You are expected to do this work independently with the help of the teaching assistants during the guided self-study sessions (*begeleide zelfstudie*). You can also post your questions in the Discussion section in Canvas at any time (i.e. not just during the practical sessions).
+Practical sessions are designed to reinforce the lectures and help you consolidate the theory through hands-on exercises.  
 
-**IMPORTANT: Please read [this guide](how_to_ask_questions.md) on effectively asking questions during the practical sessions.**
+### Goals of the practicals
+1. Gain experience in implementing, training, and evaluating machine learning models in Python. This practice supports a deeper understanding of the theory.  
+2. Encounter occasional *exam-style* questions that serve as reference when preparing for the exam. (These are only examples — not a complete list of what may appear on the exam.)  
 
+### Group work
+- Practical work is carried out in **small groups**.  
+- Groups will be **formed via Canvas** at the start of the course.  
+- Each group submits one set of deliverables.  
 
-### Goal of the practical exercises
+### Deliverables and grading
+- **Projects:**  
+  - Project 1 (Weeks 2–4)  
+  - Project 2 (Weeks 5–7)  
+- **Submission:** via Canvas (see practical notebooks for details).  
+- **Weight:** Practical work counts for **30% of the final grade**. The remaining 70% comes from the written exam.  
+- **Double benefit:** Practical work contributes directly to your grade *and* prepares you for the exam. Note that not all exam topics are covered in the practicals.  
 
-The exercises have two goals:
+### Support during practicals
 
-1) Give you the opportunity to obtain 'hands-on' experience in implementing, training and evaluation machine learning models in Python. This experience will also help you better understand the theory covered during the lectures.
+Teaching assistants (TAs) will be available during practical sessions to clarify instructions and help you debug issues; they will not provide full solutions.  
+For questions outside practical hours, please use **Canvas Discussions**. Please read [this guide](how_to_ask_questions.md) on effectively asking questions during the practical sessions.
 
-2) Occasionally demonstrate some 'exam-style' questions that you can use as a reference when studying for the exam. Note however that the example questions are (as the name suggests) only examples and do not constitute a complete and sufficient list of 'things that you have to learn for the exam'. 
+### Grading rubric
+Your practical work will be evaluated on two components: **code** and **answers to questions**.
 
- 
-### Deliverables
+| Component            | Insufficient                                                                 | Satisfactory                                                                 | Excellent                                                                                                                             |
+|----------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Code**             | Missing/incomplete; errors; lacks documentation                              | Runs without errors; some documentation; results reproducible                | User-friendly; well-structured (clear split between `.py` files and notebooks); well documented; reasonably optimized                 |
+| **Answers**          | Incorrect; lacks understanding; possibly copied                              | Correct; shows understanding; written in own words                           | Correct and insightful; demonstrates deep understanding; connects multiple topics; justifies choices                                  |
 
-For Project 1 (weeks 2-4) and Project 2 (week 5-7) you have to submit deliverables that will be graded and constitute 30% of the final grade. Thus, the work that you do during the practicals has double contribution towards the final grade: as 30% direct contribution and as a preparation for the exam that will define the other 70% of the grade. However note that not all the topics of the exam are covered in the practicals. More details on the specific deliverables are in the notebooks of each practical.
-
-The following rubric will be used when grading the practical work:
 
 | Component  | Insufficient | Satisfactory | Excellent |
 | ---------- | ------------- | ------------- | ------------- |
 | Code  | Missing or incomplete code structure, runs with errors, lacks documentation  | Self-contained, does not result in errors, contains some documentation, can be easily used to reproduce the reported results | User-friendly, well-structured (good separation of general functionality and experiments, i.e. between .py files and the Pyhthon notebook), detailed documentation, optimized for speed, 
 | Answers to questions  | Incorrect, does not convey understanding of the material, appears to be copied from another source | Correct, conveys good understanding of the material, description in own words | Correct, conveys excellent level of understanding, makes connections between topics | 
+
+### How to succeed in the practicals
+> 💡 Tips to get the most out of the practicals:
+- **Work steadily:** Don’t leave practicals until the last minute — they are designed to reinforce the lectures.  
+- **Engage in discussion:** Ask questions in Canvas Discussions; if you have a question, chances are others do too.  
+- **Connect practice to theory:** Use the hands-on exercises to check if you really understand how the algorithms work.  
+- **Reflect on choices:** When writing answers, explain not only *what* you did but also *why* — this is key to demonstrating deep understanding.  
 
  
 ## Use of ChatGPT, GitHub Copilot, and other AI tools
