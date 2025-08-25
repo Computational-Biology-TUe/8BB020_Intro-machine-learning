@@ -53,8 +53,6 @@ The content will remain largely the same, but there may be edits.
 | 7 | 15/Oct |  | Project 2.1: Application of neural networks to a case study |  |
 | 8 | 22/Oct | - | *No practical* | - |
 
-<ins>*Please note that the room all upcoming practical sessions has been changed, the new room is Gem-Z 3A.05</ins>
-
 ## Practical work
 
 Practical sessions are designed to reinforce the lectures and help you consolidate the theory through hands-on exercises.  
