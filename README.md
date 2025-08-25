@@ -87,13 +87,7 @@ Your practical work will be evaluated on two components: **code** and **answers 
 | Component | Insufficient | Satisfactory | Excellent |
 |-----------|--------------|--------------|-----------|
 | **Code** | Missing or incomplete; does not run; no documentation | Runs without errors; notebook can be executed from start to finish without manual changes; some comments/markdown; results reproducible directly | Runs cleanly from top to bottom; clear structure with separation of reusable code in `.py` files and experiments in notebooks; consistent style; well-documented with meaningful comments and markdown; reasonably optimized |
-| **Answers** | Incorrect or missing; shows little understanding; copied from elsewhere | Mostly correct; shows understanding; written in own words | Correct and precise; demonstrates deep understanding; connects multiple topics; justifies design choices |
-
-
-| Component  | Insufficient | Satisfactory | Excellent |
-| ---------- | ------------- | ------------- | ------------- |
-| Code  | Missing or incomplete code structure, runs with errors, lacks documentation  | Self-contained, does not result in errors, contains some documentation, can be easily used to reproduce the reported results | User-friendly, well-structured (good separation of general functionality and experiments, i.e. between .py files and the Pyhthon notebook), detailed documentation, optimized for speed, 
-| Answers to questions  | Incorrect, does not convey understanding of the material, appears to be copied from another source | Correct, conveys good understanding of the material, description in own words | Correct, conveys excellent level of understanding, makes connections between topics | 
+| **Answers** | Incorrect or missing; shows little understanding; appears to be copied from elsewhere | Mostly correct; shows good understanding; written in own words | Correct and precise; demonstrates deep understanding; connects multiple topics; justifies design choices |
 
 ### How to succeed in the practicals
 > 💡 Tips to get the most out of the practicals:
