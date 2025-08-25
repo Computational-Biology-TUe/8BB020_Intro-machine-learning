@@ -144,16 +144,18 @@ After completing the course, the student will be able to:
 
 ## Assessment
 
-The assessment will be performed in the following way:
+Final grade composition:  
+- **Written exam:** 70%  
+- **Practical work (Projects 1 & 2):** 30%  
+  - Each project contributes **equally (15%)** to the final grade.  
 
-* Work on the practical assignments: 30% of the final grade (each assignment has equal contribution);
-
-* Final exam: 70% of the final grade.
+The written exam is designed to **assess your understanding** of the topics covered in the course.  
+It covers **all material from the lectures**, unless the instructor explicitly states otherwise.  
+Do not assume that only practical content or example questions reflect the scope of the exam.  =
 
 Intermediate feedback will be provided as grades to the first assignment.
 
 The grading of the assignments will be done per groups, however, it is possible that individual students get separate grade from the rest of the group (e.g. if they did not sufficiently participate in the work of the group).
-
 
 ## Instruction
 
