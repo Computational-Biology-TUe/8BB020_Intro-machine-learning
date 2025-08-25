@@ -1,12 +1,20 @@
 
 # Introduction to machine learning (8BB020)
 
-This course is intended to introduce machine learning principles, explain how commonly use machine learning methods work and illustrating their application to biomedical problems.
+Machine learning is becoming increasingly important in biomedical engineering, as hospitals and research labs generate vast and growing amounts of data. These methods are powerful for identifying patterns in such complex datasets, but to apply them properly it is essential to understand how the underlying algorithms work. This course provides a foundation in machine learning, focusing on how models are trained from data and the principles behind different algorithms. Practical sessions are included to reinforce the theory through hands-on application.
 
 ## Use of Canvas
-This GitHub page contains all the general information about the course and the study materials. The [Canvas page of the course](https://canvas.tue.nl/courses/27567) will be used only for sharing of course information that cannot be made public (e.g. Microsoft Teams links), submission of the practical work and posting questions to the instructors and teaching assistants (in the Discussion section). The students are highly encouraged to use the Discussion section in Canvas. All general questions (e.g. issues with setting up the programming environment, error messages etc., general methodology questions) should be posted in the Discussion section.
 
-**TLDR**: GitHub is for content, Canvas for communication and submission of assignments.
+> **GitHub = course content (slides, notebooks, instructions)**  
+> **Canvas = announcements, submissions, and discussion**
+
+This GitHub repository contains the course information and study materials.  
+The [Canvas page](https://canvas.tue.nl/courses/31400) is used only for:  
+- Announcements and course information that cannot be made public (e.g. Microsoft Teams links)  
+- Submission of practical work  
+- Posting questions in the **Discussion** section  
+
+Students are strongly encouraged to use the Canvas Discussion section for all general questions (e.g. programming environment setup, error messages, or methodology).  
 
 ## Lectures and practicals
 
@@ -49,7 +57,7 @@ The content will remain largely the same, but there may be edits.
 
 ## Practical work
 
-The practical work will be done in groups. The groups will be formed in Canvas and you will also submit all your work there (check the Assignments section for the deadlines). Your are expected to do this work independently with the help of the teaching assistants during the guided self-study sessions (*begeleide zelfstudie*). You can also post your questions in the Discussion section in Canvas at any time (i.e. not just during the practical sessions).
+The practical work will be done in groups. The groups will be formed in Canvas and you will also submit all your work there (check the Assignments section for the deadlines). You are expected to do this work independently with the help of the teaching assistants during the guided self-study sessions (*begeleide zelfstudie*). You can also post your questions in the Discussion section in Canvas at any time (i.e. not just during the practical sessions).
 
 **IMPORTANT: Please read [this guide](how_to_ask_questions.md) on effectively asking questions during the practical sessions.**
 
