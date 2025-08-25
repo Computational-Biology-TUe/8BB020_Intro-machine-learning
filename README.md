@@ -84,11 +84,27 @@ For questions outside practical hours, please use **Canvas Discussions**. Please
 ### Grading rubric
 Your practical work will be evaluated on two components: **code** and **answers to questions**.
 
-| Component            | Insufficient                                                                 | Satisfactory                                                                 | Excellent                                                                                                                             |
-|----------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **Code**             | Missing/incomplete; errors; lacks documentation                              | Runs without errors; some documentation; results reproducible                | User-friendly; well-structured (clear split between `.py` files and notebooks); well documented; reasonably optimized                 |
-| **Answers**          | Incorrect; lacks understanding; possibly copied                              | Correct; shows understanding; written in own words                           | Correct and insightful; demonstrates deep understanding; connects multiple topics; justifies choices                                  |
 
+| Component | Insufficient | Satisfactory | Excellent |
+|-----------|--------------|--------------|-----------|
+| **Code** | - Code is missing or incomplete  
+- Does not run without errors  
+- No or minimal comments/documentation | - All required code is present  
+- Runs **without modification** from start to finish in the notebook (no hidden steps or manual fixes needed)  
+- Functions are reasonably named and there is some documentation (comments or markdown)  
+- Results in the notebook can be reproduced directly by running all cells in order | - Code runs cleanly from top to bottom in one go (no manual edits or reordering)  
+- Clear structure with separation of reusable code in `.py` files and experiments in notebooks  
+- Consistent style (naming, formatting)  
+- Well-documented with meaningful comments and markdown explaining the steps  
+- Efficient and reasonably optimized where possible |
+| **Answers** | - Incorrect or missing  
+- Shows little or no understanding  
+- Copy-pasted from external source | - Mostly correct  
+- Shows understanding of the material  
+- Written in own words | - Correct and precise  
+- Shows deep understanding of the concepts  
+- Makes explicit connections between topics  
+- Provides reasoning for choices made |
 
 | Component  | Insufficient | Satisfactory | Excellent |
 | ---------- | ------------- | ------------- | ------------- |
