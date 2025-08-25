@@ -2,7 +2,7 @@
 
 Based on reflections from previous students and research:
 
-## When AI tools are helpful
+## When LLM-based tools are helpful
 - Debugging code and improving readability  
 - Understanding functions and clarifying documentation  
 - Generating plotting code (legends, error bars, layouts)  
