@@ -94,6 +94,31 @@ Your practical work will be evaluated on two components: **code** and **answers 
 - **Connect practice to theory:** Use the hands-on exercises to check if you really understand how the algorithms work.  
 - **Reflect on choices:** When writing answers, explain not only *what* you did but also *why* — this is key to demonstrating deep understanding.  
 
+## Exam
+
+The written exam is designed to **assess your understanding** of the topics covered in the course.  
+It covers **all lecture material**, unless the instructor explicitly states otherwise.  
+Do not assume that only practical content or example questions reflect the scope of the exam.  
+
+The exam will consist of a **combination of open-ended questions and multiple-choice questions**.  
+- **No programming:** There will be no programming in the written exam. The programming component is evaluated through the practical projects.  
+- **Examples of questions:**  
+  - Multiple-choice questions will be similar in style to the Mentimeter questions asked during the lectures.  
+  - Open-ended questions will be similar in style to the conceptual (red) questions in the practical assignments, excluding those that involve or reference coding.
+
+These are examples only and do not represent the complete set of possible exam questions.  
+
+### Preparing for the exam
+Good preparation combines lectures, practicals, and self-study:
+- **Lectures:** Actively attend and engage with the material. Use lectures to build your first understanding of each topic, and take the opportunity to **ask questions** if something is unclear. Slides are provided, and you are expected to consult the corresponding textbook chapters.  
+- **Practicals:** Actively participate in the group-based, hands-on projects. They help you consolidate selected methods in practice, and you should make use of TA support and Canvas Discussions to resolve questions. Some *exam-style* questions are included, but these are only examples and **do not represent the full scope** of the exam. The exam covers all lecture topics, while the practicals focus on a subset.  
+- **Self-study:** A very important part of your preparation. Spend sufficient time reviewing the lecture material independently — both slides and textbook chapters — and make sure you can explain the concepts and methods in your own words. Self-study is where you move from familiarity to real understanding.  
+
+### Course workload
+This is a 5 ECTS course, equivalent to 140 study hours. Spread over 9 weeks (with week 9 being the exam week), this averages to about 15.5 hours per week.  
+- Contact hours: 2-hour lecture + 2-hour practical each week.  
+- Independent study: ~11–12 hours per week are expected for reviewing lecture material and self-study.  
+These are general guidelines; individual needs may vary. Concepts will become clearer through consistent self-study, and if you encounter difficulties you are encouraged to ask questions during lectures, practicals, or on Canvas.  
  
 ## Use of ChatGPT, GitHub Copilot, and other AI tools
 
@@ -148,10 +173,6 @@ Final grade composition:
 - **Written exam:** 70%  
 - **Practical work (Projects 1 & 2):** 30%  
   - Each project contributes **equally (15%)** to the final grade.  
-
-The written exam is designed to **assess your understanding** of the topics covered in the course. The exam will consist of a **combination of open-ended questions and multiple-choice questions**.   
-It covers **all material from the lectures**, unless the instructor explicitly states otherwise.  
-Do not assume that only practical content or example questions reflect the scope of the exam.
 
 Intermediate feedback will be provided as grades to the first assignment.
 
