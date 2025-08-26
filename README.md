@@ -151,7 +151,8 @@ Final grade composition:
 
 The written exam is designed to **assess your understanding** of the topics covered in the course.  
 It covers **all material from the lectures**, unless the instructor explicitly states otherwise.  
-Do not assume that only practical content or example questions reflect the scope of the exam.  =
+Do not assume that only practical content or example questions reflect the scope of the exam.
+The exam will consist of a **combination of open-ended questions and multiple-choice questions**.  
 
 Intermediate feedback will be provided as grades to the first assignment.
 
