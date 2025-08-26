@@ -35,5 +35,5 @@ Recent research supports these reflections:
 - With unrestricted use of ChatGPT, students performed **significantly worse**.  
 
 ### Lesson learned
-AI is most valuable as a **companion** rather than a **substitute**.  
-Its true potential lies in **enhancing and complementing** traditional learning — not replacing it.
+LLM-based tools are most valuable as a **companion** rather than a **substitute**.  
+Their true potential lies in **enhancing and complementing** traditional learning — not replacing it.
