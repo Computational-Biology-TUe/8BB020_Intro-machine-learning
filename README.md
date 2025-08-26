@@ -28,30 +28,33 @@ Slides marked with **🟢 (2025)** are the updated ones for this year and will b
 The content will remain largely the same, but there may be edits.  
 👉 Please **always download the 2025 version of the slides**.
 
-| Week | Date   | Room   | Topic                               | Slides |
-|------|--------|--------|-------------------------------------|--------|
-| 1    | 03/Sep |  | Machine learning fundamentals       | [intro](lectures/week1_Intro_2024.pdf) 🔴, [lecture](lectures/week1_lecture_2024.pdf) 🔴 |
-| 2    | 10/Sep |  | Linear and logistic regression      | [lecture](lectures/week2_lecture_2024.pdf) 🔴 |
-| 3    | 17/Sep |  | Regularization for linear models    | [lecture](lectures/week3_lecture_2024.pdf) 🔴 |
-| 4    | 24/Sep |  | SVMs and tree-based methods         | [lecture](lectures/week4_lecture_2024.pdf) 🔴 |
-| 5    | 01/Oct |  | Neural networks, part 1             | [lecture](lectures/week5_lecture_2024.pdf) 🔴 |
-| 6    | 08/Oct |  | Neural networks, part 2             | [lecture](lectures/week6_lecture_2024.pdf) 🔴 |
-| 7    | 15/Oct |  | Unsupervised learning               | [lecture](lectures/week7_lecture_2024.pdf) 🔴 |
-| 8 | 22/Oct |  | *No lecture* | - |
+| Week | Date   | Topic                               | Slides |
+|------|--------|-------------------------------------|--------|
+| 1    | 03/Sep |  Machine learning fundamentals       | [intro](lectures/week1_Intro_2024.pdf) 🔴, [lecture](lectures/week1_lecture_2024.pdf) 🔴 |
+| 2    | 10/Sep |  Linear and logistic regression      | [lecture](lectures/week2_lecture_2024.pdf) 🔴 |
+| 3    | 17/Sep |  Regularization for linear models    | [lecture](lectures/week3_lecture_2024.pdf) 🔴 |
+| 4    | 24/Sep |  SVMs and tree-based methods         | [lecture](lectures/week4_lecture_2024.pdf) 🔴 |
+| 5    | 01/Oct |  Neural networks, part 1             | [lecture](lectures/week5_lecture_2024.pdf) 🔴 |
+| 6    | 08/Oct |  Neural networks, part 2             | [lecture](lectures/week6_lecture_2024.pdf) 🔴 |
+| 7    | 15/Oct |  Unsupervised learning               | [lecture](lectures/week7_lecture_2024.pdf) 🔴 |
+| 8 | 22/Oct |  *No lecture* | - |
 | :small_red_triangle:| 30/Oct | *Exam* | - |
 
 ### Practical assignments
 
-| # | Date | Location | Title | Exercises |
-| --- | --- | --- | --- | --- |
-| 1 | 03/Sep |  | Project 0: Introduction |  |
-| 2 | 10/Sep |  | Project 1.1: Linear and logistic regression | |
-| 3 | 17/Sep |  | Project 1.2: Regularization for linear models |  | 
-| 4 | 24/Sep |  | Project 1.3: Application of linear models to a case study |  |
-| 5 | 01/Oct |  | Project 2.1: Neural networks, part 1 | |
-| 6 | 08/Oct |  | Project 2.1: Neural networks, part 2 |  |
-| 7 | 15/Oct |  | Project 2.1: Application of neural networks to a case study |  |
-| 8 | 22/Oct | - | *No practical* | - |
+| # | Date |  Title | Exercises |
+| --- |  --- | --- | --- |
+| 1 | 03/Sep | Project 0: Introduction |  |
+| 2 | 10/Sep | Project 1.1: Linear and logistic regression | |
+| 3 | 17/Sep | Project 1.2: Regularization for linear models |  | 
+| 4 | 24/Sep | Project 1.3: Application of linear models to a case study |  |
+| 5 | 01/Oct | Project 2.1: Neural networks, part 1 | |
+| 6 | 08/Oct | Project 2.1: Neural networks, part 2 |  |
+| 7 | 15/Oct | Project 2.1: Application of neural networks to a case study |  |
+| 8 | 22/Oct | *No practical* | - |
+
+### Location
+Both Lectures and Practicals will be in Vector 0.103. There will be also OGO rooms available if necessary for working in groups.
 
 ### Other course material
 The lectures are mainly based on the selected chapters from the following book that is freely available online:
