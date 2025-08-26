@@ -18,7 +18,7 @@ Students are strongly encouraged to use the Canvas Discussion section for all ge
 
 ## Schedule and course material
 
-Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 17.30 (after each lecture). Here below the schedule for the lectures and the practicals:
+Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 17.30 (after each lecture). Both lectures and practicals will be in Vector 0.103. There will be also OGO rooms available if necessary for working in groups during the practical. Here below the schedule for the lectures and the practicals:
 
 ### Lectures
 
@@ -52,9 +52,6 @@ The content will remain largely the same, but there may be edits.
 | 6 | 08/Oct | Project 2.1: Neural networks, part 2 |  |
 | 7 | 15/Oct | Project 2.1: Application of neural networks to a case study |  |
 | 8 | 22/Oct | *No practical* | - |
-
-### Location
-Both Lectures and Practicals will be in Vector 0.103. There will be also OGO rooms available if necessary for working in groups.
 
 ### Other course material
 The lectures are mainly based on the selected chapters from the following book that is freely available online:
