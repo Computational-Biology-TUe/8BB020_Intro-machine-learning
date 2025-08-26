@@ -149,10 +149,9 @@ Final grade composition:
 - **Practical work (Projects 1 & 2):** 30%  
   - Each project contributes **equally (15%)** to the final grade.  
 
-The written exam is designed to **assess your understanding** of the topics covered in the course.  
+The written exam is designed to **assess your understanding** of the topics covered in the course. The exam will consist of a **combination of open-ended questions and multiple-choice questions**.   
 It covers **all material from the lectures**, unless the instructor explicitly states otherwise.  
 Do not assume that only practical content or example questions reflect the scope of the exam.
-The exam will consist of a **combination of open-ended questions and multiple-choice questions**.  
 
 Intermediate feedback will be provided as grades to the first assignment.
 
