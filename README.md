@@ -16,7 +16,7 @@ The [Canvas page](https://canvas.tue.nl/courses/31400) is used only for:
 
 Students are strongly encouraged to use the Canvas Discussion section for all general questions (e.g. programming environment setup, error messages, or methodology). Chances are that other students have the same question, and posting it there allows everyone to benefit and turn it into an interactive discussion. 
 
-## Lectures and practicals
+## Schedule and course material
 
 Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 17.30 (after each lecture). Here below the schedule for the lectures and the practicals:
 
@@ -52,6 +52,14 @@ The content will remain largely the same, but there may be edits.
 | 6 | 08/Oct |  | Project 2.1: Neural networks, part 2 |  |
 | 7 | 15/Oct |  | Project 2.1: Application of neural networks to a case study |  |
 | 8 | 22/Oct | - | *No practical* | - |
+
+### Other course material
+The lectures are mainly based on the selected chapters from the following book that is freely available online:
+
+* [An introduction to statistical learning with applications in python](https://www.statlearning.com/), G. James, D. Witten, T. Hastie, R. Tibshirani, J. Taylor
+
+Additional reading materials such as journal articles are listed within the lecture slides.
+
 
 ## Practical work
 
@@ -114,12 +122,6 @@ Good preparation combines lectures, practicals, and self-study:
 - **Practicals:** Actively participate in the group-based, hands-on projects. They help you consolidate selected methods in practice, and you should make use of TA support and Canvas Discussions to resolve questions. Some *exam-style* questions are included, but these are only examples and **do not represent the full scope** of the exam. The exam covers all lecture topics, while the practicals focus on a subset.  
 - **Self-study:** A very important part of your preparation. Spend sufficient time reviewing the lecture material independently — both slides and textbook chapters — and make sure you can explain the concepts and methods in your own words. Self-study is where you move from familiarity to real understanding.  
 
-### Course workload
-This is a 5 ECTS course, equivalent to 140 study hours. Spread over 9 weeks (with week 9 being the exam week), this averages to about 15.5 hours per week.  
-- Contact hours: 2-hour lecture + 2-hour practical each week.  
-- Independent study: ~11–12 hours per week are expected for reviewing lecture material and self-study.  
-These are general guidelines; individual needs may vary. Concepts will become clearer through consistent self-study, and if you encounter difficulties you are encouraged to ask questions during lectures, practicals, or on Canvas.  
- 
 ## Use of ChatGPT, GitHub Copilot, and other AI tools
 
 The use of generative AI assistants such as **ChatGPT, GitHub Copilot, and other large language model (LLM)-based tools** is **allowed** in this course, provided that you follow the official [TU/e Working Agreement for AI Use in Education (Nov 2024, PDF)](https://assets.w3.tue.nl/w/fileadmin/Education_Guide/Content/Programs/Testing%20and%20assessment/AI%20Rules_TUe.pdf).
@@ -145,16 +147,6 @@ The reflection report is **mandatory** if you used AI tools. Not submitting it w
 
 Further information: [Tips & lessons learned from previous students](./AI_tips.md)  
 
-# Materials
-
-## Books
-The lectures are mainly based on the selected chapters from the following book that is freely available online:
-
-* [An introduction to statistical learning with applications in python](https://www.statlearning.com/), G. James, D. Witten, T. Hastie, R. Tibshirani, J. Taylor
-
-Additional reading materials such as journal articles are listed within the lecture slides.
-
-
 
 # Other course information
 
@@ -177,6 +169,12 @@ Final grade composition:
 Intermediate feedback will be provided as grades to the first assignment.
 
 The grading of the assignments will be done per groups, however, it is possible that individual students get separate grade from the rest of the group (e.g. if they did not sufficiently participate in the work of the group).
+
+## Course workload and study expectation
+This is a 5 ECTS course, equivalent to 140 study hours. Spread over 9 weeks (with week 9 being the exam week), this averages to about 15.5 hours per week.  
+- Contact hours: 2-hour lecture + 2-hour practical each week.  
+- Independent study: ~11–12 hours per week are expected for reviewing lecture material and self-study.  
+These are general guidelines; individual needs may vary. Concepts will become clearer through consistent self-study, and if you encounter difficulties you are encouraged to ask questions during lectures, practicals, or on Canvas.  
 
 ## Instruction
 
