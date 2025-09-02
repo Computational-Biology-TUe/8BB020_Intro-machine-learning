@@ -42,9 +42,12 @@ The content will remain largely the same, but there may be edits.
 
 ### Practical assignments
 
+During your first session (Project 0) you are asked to create a Python environment for the course. You can also create your Python environment using the  [`practicals/8BB020_environment.yaml`](practicals/8BB020_environment.yaml) file. [Watch the instruction video on SharePoint — Setting up the Python environment](https://tuenl-my.sharepoint.com/:v:/g/personal/f_eduati_tue_nl/ETB31YZYvKFHuXFgixBO-IQBgkQqfuxd09VXFQvYxeNSEA?e=zv20Oa)
+
+
 | # | Date |  Title | Exercises |
 | --- |  --- | --- | --- |
-| 1 | 03/Sep | Project 0: Introduction |  |
+| 1 | 03/Sep | Project 0: Introduction | [practical](practicals/part0_intro.ipynb) |
 | 2 | 10/Sep | Project 1.1: Linear and logistic regression | |
 | 3 | 17/Sep | Project 1.2: Regularization for linear models |  | 
 | 4 | 24/Sep | Project 1.3: Application of linear models to a case study |  |
