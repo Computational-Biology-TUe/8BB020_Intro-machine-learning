@@ -18,7 +18,7 @@ Students are strongly encouraged to use the Canvas Discussion section for all ge
 
 ## Schedule and course material
 
-Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 17.30 (after each lecture). Both lectures and practicals will be in Vector 0.103. There will be also OGO rooms available if necessary for working in groups during the practical. Here below the schedule for the lectures and the practicals:
+Lectures are on Wednesdays 13:30 - 15:30, practicals are on Wednesdays 15.30 - 17.30 (after each lecture). Both lectures and practicals will be in Vector 0.103. See [public link](https://cloud.timeedit.net/nl_tue/web/es/ri1942j60478l0Q19ydj80XlZYQ60k9Q041mjl3tk96lg657060Z68w5ly5q85Zn6QXnZW9rW2Y75d34vzc7RYWQQg20090lX765xWW07jnhWVWVcoxwxjaxjcvXCxxrL6XlWrX8Vavxv7vlvmCrwngycWcXcyAc5Lra9qn7pyWnX5nwcDl6jWvc7W6hrwX0W8chne8523WcjVrc9vXcdvWcc3nwWbbbdmwE82rWcWnW5nEmXnS4Vynzdcw8mj4W9Bt2oX09c529WBDC3S5B92Qo9D46DZC227Ecb9AB90ED77C.phtml) to your schedule. There will be also OGO rooms available if necessary for working in groups during the practical. Here below the schedule for the lectures and the practicals:
 
 ### Lectures
 
