@@ -48,7 +48,7 @@ During your first session (Project 0) you are asked to create a Python environme
 | # | Date |  Title | Exercises |
 | --- |  --- | --- | --- |
 | 1 | 03/Sep | Project 0: Introduction | [project 0](practicals/part0_intro.ipynb) |
-| 2 | 10/Sep | Project 1.1: Linear and logistic regression | [project 1](practicals/part1_linear_models.ipynb) |
+| 2 | 10/Sep | Project 1.1: Linear and logistic regression | [project 1](practicals/part_1_linear_models.ipynb) |
 | 3 | 17/Sep | Project 1.2: Regularization for linear models |  | 
 | 4 | 24/Sep | Project 1.3: Application of linear models to a case study |  |
 | 5 | 01/Oct | Project 2.1: Neural networks, part 1 | |
