@@ -31,7 +31,7 @@ The content will remain largely the same, but there may be edits.
 | Week | Date   | Topic                               | Slides |
 |------|--------|-------------------------------------|--------|
 | 1    | 03/Sep |  Machine learning fundamentals       | [intro](lectures/week1_Intro_2025.pdf) 🟢, [lecture](lectures/week1_lecture_2025.pdf) 🟢 |
-| 2    | 10/Sep |  Linear and logistic regression      | [lecture](lectures/week2_lecture_2024.pdf) 🔴 |
+| 2    | 10/Sep |  Linear and logistic regression      | [lecture](lectures/week2_lecture_2025.pdf) 🟢 |
 | 3    | 17/Sep |  Regularization for linear models    | [lecture](lectures/week3_lecture_2024.pdf) 🔴 |
 | 4    | 24/Sep |  SVMs and tree-based methods         | [lecture](lectures/week4_lecture_2024.pdf) 🔴 |
 | 5    | 01/Oct |  Neural networks, part 1             | [lecture](lectures/week5_lecture_2024.pdf) 🔴 |
@@ -48,7 +48,7 @@ During your first session (Project 0) you are asked to create a Python environme
 | # | Date |  Title | Exercises |
 | --- |  --- | --- | --- |
 | 1 | 03/Sep | Project 0: Introduction | [project 0](practicals/part0_intro.ipynb) |
-| 2 | 10/Sep | Project 1.1: Linear and logistic regression | |
+| 2 | 10/Sep | Project 1.1: Linear and logistic regression | [project 1](practicals/part1_linear_models.ipynb) |
 | 3 | 17/Sep | Project 1.2: Regularization for linear models |  | 
 | 4 | 24/Sep | Project 1.3: Application of linear models to a case study |  |
 | 5 | 01/Oct | Project 2.1: Neural networks, part 1 | |
