@@ -156,7 +156,7 @@ class LinearRegression2D:
 
         # proxy artists for legend (no drawing, just legend handles)
         legend_handles = [
-            Patch(facecolor=plane_color, edgecolor=plane_color, alpha=0.5, label="Regression plane"),
+            Patch(facecolor=plane_color, edgecolor=plane_color, alpha=0.5, label=f"Regression plane, MSE: {mse:.2f}"),
             Line2D([0], [0], marker='o', linestyle='None',
                 markerfacecolor=point_color, markeredgecolor=point_color, markersize=8,
                 label="Data points"),
