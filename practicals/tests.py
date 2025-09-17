@@ -78,9 +78,9 @@ def linear_regression(
         
     predictions = [model.predict(X) for model in models]
     mses = [mean_squared_error(y, y_pred) for y_pred in predictions]
-    labels = [f'Reference model, MSE: {mses[2]:.2f}',
-              f'Least squares, MSE: {mses[0]:.2f}',
-              f'GD, MSE: {mses[1]:.2f}'
+    labels = [f'Least squares, MSE: {mses[0]:.2f}',
+              f'GD, MSE: {mses[1]:.2f}',
+              f'Reference model, MSE: {mses[2]:.2f}'
              ]
     
     plot_regression(X, y, predictions, labels)
