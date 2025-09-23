@@ -33,7 +33,7 @@ The content will remain largely the same, but there may be edits.
 | 1    | 03/Sep |  Machine learning fundamentals       | [intro](lectures/week1_Intro_2025.pdf) 🟢, [lecture](lectures/week1_lecture_2025.pdf) 🟢 |
 | 2    | 10/Sep |  Linear and logistic regression      | [lecture](lectures/week2_lecture_2025.pdf) 🟢 |
 | 3    | 17/Sep |  Regularization for linear models    | [lecture](lectures/week3_lecture_2025.pdf) 🟢 |
-| 4    | 24/Sep |  SVMs and tree-based methods         | [lecture](lectures/week4_lecture_2024.pdf) 🔴 |
+| 4    | 24/Sep |  SVMs and tree-based methods         | [lecture](lectures/week4_lecture_2025.pdf) 🟢 |
 | 5    | 01/Oct |  Neural networks, part 1             | [lecture](lectures/week5_lecture_2024.pdf) 🔴 |
 | 6    | 08/Oct |  Neural networks, part 2             | [lecture](lectures/week6_lecture_2024.pdf) 🔴 |
 | 7    | 15/Oct |  Unsupervised learning               | [lecture](lectures/week7_lecture_2024.pdf) 🔴 |
